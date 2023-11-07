@@ -28,7 +28,7 @@ Este curso é destinado a pessoas que desejam aprender sobre controle de versão
 8. Fabrício Santos - 
 9. Eduarda Berredo - 
 10. Kauan Souza - 
-11. Daniel Vieira - 
+11. Daniel Vieira - Presente
 
 
 ## Recursos Adicionais
