@@ -19,7 +19,7 @@ Este curso é destinado a pessoas que desejam aprender sobre controle de versão
 ## Lista de Presença
 
 1. Daniel Pereira - 
-2. Gabriel Morishita - 
+2. Gabriel Morishita - Presente 🎁
 3. Isabela Macedo - 
 4. Thiago Moura - 
 5. Luiz Souza - 
