@@ -21,13 +21,13 @@ Este curso é destinado a pessoas que desejam aprender sobre controle de versão
 1. Daniel Pereira -
 2. Gabriel Morishita - Presente 🎁
 3. Isabela Macedo - Presente 🙌
-4. Thiago Moura -
-5. Luiz Souza -
-6. Thais Moscardini -
-7. Talita Moreira -
-8. Fabrício Santos -
-9. Eduarda Berredo -
-10. Kauan Souza -
+4. Thiago Moura - Presente
+5. Luiz Souza - Presente
+6. Thais Moscardini - Presente
+7. Talita Moreira - Presente
+8. Fabrício Santos - Presente
+9. Eduarda Berredo - Presente
+10. Kauan Souza - Presente
 11. Daniel Vieira - Presente
 
 
