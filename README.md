@@ -29,6 +29,7 @@ Este curso é destinado a pessoas que desejam aprender sobre controle de versão
 9. Eduarda Berredo - Presente
 10. Kauan Souza - Presente
 11. Daniel Vieira - Presente
+12. Caroline Oliveira
 
 
 ## Recursos Adicionais
